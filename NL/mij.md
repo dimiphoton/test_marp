@@ -6,6 +6,8 @@ footer: "Footer text"
 backgroundColor: ##F0F0F0
 backgroundImage: url('path/to/image.jpg')
 
+
+---
 # Slide Title
 
 This is the content of the slide.
