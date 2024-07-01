@@ -6,6 +6,16 @@ footer: "Footer text"
 backgroundColor: ##F0F0F0
 backgroundImage: url('path/to/image.jpg')
 
+# Slide Title
+
+This is the content of the slide.
+
+<!--
+This is a speaker note. It will not be visible on the slide.
+You can use this space to write notes for yourself.
+-->
+
+
 ---
 
 
