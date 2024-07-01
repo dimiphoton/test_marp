@@ -3,24 +3,20 @@ marp: true
 theme: gaia
 paginate: true
 footer: "Footer text"
-backgroundColor: ##F0F0F0
+backgroundColor: #F0F0F0
 backgroundImage: url('path/to/image.jpg')
-
-
-
 ---
+
 # Slide 0
 
-This is the content of the slide.
+This is the content of Slide 0.
 
 <!--
 This is a speaker note. It will not be visible on the slide.
 You can use this space to write notes for yourself.
 -->
 
-
 ---
-
 
 # Slide Title
 
@@ -31,6 +27,7 @@ You can use this space to write notes for yourself.
 Content below the title.
 
 ---
+
 
 # Mijn education
 ## lol
