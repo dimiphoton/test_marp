@@ -51,7 +51,6 @@ Aan de Universiteit van Lund in Zweden heb ik me gespecialiseerd in laserfysica 
 &nbsp;
 &nbsp;
 &nbsp;
-&nbsp;
 
 opkomend =émergent
 toepassingen = utilisations
@@ -89,14 +88,13 @@ In 2017 wilde ik terugkeren naar de buurt van Frankrijk. Ik vond een positie in 
 &nbsp;
 &nbsp;
 &nbsp;
-&nbsp;
  
 
 terugkeer - retour
 wetenschapspark - science park
 
 ---
-## Om AMOS
+## werk bij AMOS: 2017-2020
 
 - AMOS produceert unieke astronomische systemen.
 - Waalse ruimtevaartindustrie.
@@ -118,7 +116,9 @@ ruimtevaart: spatial
 <!--
 Het was een zware baan. Ik moest maximale optische kwaliteit bereiken en metrologierapporten maken. Dit vereiste veel geduld.
 -->
- 
+&nbsp;
+&nbsp;
+&nbsp;
 &nbsp;
 geduld: patience
 bereiken
@@ -132,8 +132,7 @@ bereiken
 Mijn werkplek werd gefilmd door een televisieploeg. Een voorbeeld hiervan is deze spiegel die meer dan een jaar moest worden gepolijst. Ik vond deze baan leuk, maar het was lastig om krassen of ongelukken te vermijden.
 -->
 
-![w:490 h:280 ](amos_waldorado.png)
-  
+![w:470 h:280 ](amos_waldorado.png)
 filmploeg - 
 gepolijst -
 krassen -
