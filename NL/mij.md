@@ -2,7 +2,6 @@
 marp: true
 theme: gaia
 paginate: true
-footer: "Footer text"
 backgroundColor: #F0F0F0
 ---
 
@@ -29,8 +28,6 @@ het eerste deel is mijn initiële opleiding.
 - Keuze voor natuurkunde als studie voort te zetten.
 
 <!-- Adding extra lines to push content down -->
-&nbsp;
-&nbsp;
 afgerond = fini
 studie voortzetten 
 
@@ -49,9 +46,6 @@ Aan de Universiteit van Lund in Zweden heb ik me gespecialiseerd in laserfysica 
 -->
 
 &nbsp;
-&nbsp;
-&nbsp;
-
 opkomend =émergent
 toepassingen = utilisations
 
@@ -67,11 +61,10 @@ Ik zal spreken over mijn eerste professionele ervaringen.
 ## werk bij ELI beamlines : 2014-2017
 - Optical engineer in Praag
 
-![w:550 h:340 ](ELI_L3.png)
+![w:310 h:210 ](ELI_L3.png)
 <!--
 Von 2014 tot 2017, ik was optisch ingenieur in Praag. Het was een project van de Europese Unie om een laser met krachtige impulsen te bouwen.
 -->
-
 krachtige : puissant
 
 ---
@@ -86,9 +79,6 @@ In 2017 wilde ik terugkeren naar de buurt van Frankrijk. Ik vond een positie in 
 -->
 
 &nbsp;
-&nbsp;
-&nbsp;
- 
 
 terugkeer - retour
 wetenschapspark - science park
@@ -96,8 +86,7 @@ wetenschapspark - science park
 ---
 ## werk bij AMOS: 2017-2020
 
-- AMOS produceert unieke astronomische systemen.
-- Waalse ruimtevaartindustrie.
+- astronomische systemen.
 
 <!--
 Het bedrijf AMOS is een producent van unieke astronomische systemen. Het is een belangrijk bedrijf binnen de Waalse ruimtevaartindustrie.
@@ -117,11 +106,9 @@ ruimtevaart: spatial
 Het was een zware baan. Ik moest maximale optische kwaliteit bereiken en metrologierapporten maken. Dit vereiste veel geduld.
 -->
 &nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
+
 geduld: patience
-bereiken
+bereiken : atteindre
 
 ---
 ## Mijn job bij AMOS
@@ -132,7 +119,7 @@ bereiken
 Mijn werkplek werd gefilmd door een televisieploeg. Een voorbeeld hiervan is deze spiegel die meer dan een jaar moest worden gepolijst. Ik vond deze baan leuk, maar het was lastig om krassen of ongelukken te vermijden.
 -->
 
-![w:470 h:280 ](amos_waldorado.png)
+![w:400 h:250 ](amos_waldorado.png)
 filmploeg - 
 gepolijst -
 krassen -
@@ -149,7 +136,6 @@ Tijdens deze jaren leerde ik over een EU-programma voor aardobservatie, genaamd 
 
 &nbsp;
 &nbsp;
-&nbsp;
 satellietbeelden - satellite imaging
 aardobservatie - earth monitoring
 
@@ -164,7 +150,6 @@ aardobservatie - earth monitoring
 Ik verloor mijn baan, maar ik kon data science leren aan de Universiteit van Luik. Ik vond het zeer interessant.
 -->
 
-&nbsp;
 &nbsp;
 &nbsp;
 datawetenschap - data science
@@ -205,7 +190,7 @@ voorkeur : preference
 ---
 ## voorbeeld 1
 
-![w:690 h:310 ](agromet.png)
+![w:590 h:230 ](agromet.png)
 
 
 <!--
@@ -220,10 +205,9 @@ opbrengsten : rendements
 
 ## voorbeld 2
 
-![w:690 h:310 ](infrabel.png)
+![w:590 h:310 ](infrabel.png)
 
 
-&nbsp;
 <!--
 Vorige week heb ik gesolliciteerd bij Infrabel.
 Gegevens helpen het onderhoud te verbeteren.
@@ -237,7 +221,7 @@ onderhoud : maintenance
 - projectportfolio hebben
 - netwerken
 
-![w:580 h:260 ](leuven.png)
+![w:480 h:210 ](leuven.png)
 
 <!--
 Ik moet een projectportfolio hebben en mijn netwerk uitbreiden. Bijvoorbeeld, tijdens deze bijeenkomst in Leuven.
